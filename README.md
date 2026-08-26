@@ -1,4 +1,4 @@
-# taip: # Bootcamp Git Project
+# Bootcamp DevOps — Repositori Latihan
 # taip: Sesi Git 1## Tujuan
 Belajar git workflow lokal.
 Perubahan
