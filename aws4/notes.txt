@@ -1,0 +1,12 @@
+[
+    [
+        "nat-08b12a0fc9f437e92",
+        "available"
+    ]
+]
+[
+    "18.141.44.212"
+]
+[
+    "148761656759.dkr.ecr.ap-southeast-1.amazonaws.com/devops-bootcamp/adamazwan"
+]
