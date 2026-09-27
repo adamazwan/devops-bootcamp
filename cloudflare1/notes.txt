@@ -1,0 +1,3 @@
+nameserver: crystal.ns.cloudflare.com, jasper.ns.cloudflare.com
+portfolio: adamazwan-github-io.pages.dev, www.adamazwan.my
+private-site: tech.adamazwan.my
