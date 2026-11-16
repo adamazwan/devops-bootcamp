@@ -1,0 +1,15 @@
+inventory.ini
+
+# Terraform generated files
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+crash.*.log
+
+# Ansible generated inventory
+inventory.ini
+
+# Terraform variable files containing possible secrets
+*.tfvars
+*.tfvars.json
